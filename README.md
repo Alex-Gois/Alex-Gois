@@ -1,6 +1,6 @@
 # Olá! Eu sou a Alex e seja bem-vindo ao meu GitHub.
 
-Aqui você encontrará projetos e recursos relacionados ao meu estudo e paixão pelo Desenvolvimento iOS. Minha jornada está focada em explorar o ecossistema da Apple, aprender as melhores práticas e criar aplicativos incríveis para dispositivos iOS.
+Aqui você encontrará projetos e recursos relacionados ao meu estudo e paixão pelo Desenvolvimento iOS. Minha jornada está focada em explorar o ecossistema da Apple, aprender as melhores práticas e criar aplicativos incríveis para dispositivos iOS. 👨‍💻📚
 
 
 ## 🌐 Socials:
